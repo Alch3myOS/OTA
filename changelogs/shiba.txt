@@ -1,0 +1,12 @@
+August 17th 2026
+==============
+• Official Builds
+• Version 1.0
+• August Security Patch
+
+• Redesigned Settings HomePage UI/UX
+• Rebrand Customize Menu { Alch3myLabs --> ArcaniumUI }
+
+• New features in ArcaniumUI
+-- Alch3myFX[Acoustic Resonance]  & PERFORMANCE HUB
+-- The ALKAHEST Dashboard [Refresh dashboard & clear all caches]
